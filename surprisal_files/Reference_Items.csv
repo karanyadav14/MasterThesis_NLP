@@ -1,0 +1,97 @@
+Sent,Item_Id,Cond
+"वह_लड़का,@NP1 जिसने@RCPn किताब@RCObj बहुत_दिलचस्पी_से@PreRCVerb पढ़ी_थी,@RCVerb मेरा_दोस्त@PreMainVerb है।@MainVerb",1,a
+"वह_लड़का,@NP1 जिसने@RCPn बहुत_दिलचस्पी_से@PreRCVerb पढ़ी_थी@RCVerb किताब,@RCObj मेरा_दोस्त@PreMainVerb है।@MainVerb",1,b
+"वह_किताब,@NP1 जिसको@RCPn उस_लड़के_ने@RCSubj बहुत_दिलचस्पी_से@PreRCVerb पढ़ा_था,@RCVerb बहुत_मोटी@PreMainVerb है।@MainVerb",1,c
+"वह_किताब,@NP1 जिसको@RCPn बहुत_दिलचस्पी_से@PreRCVerb पढ़ा_था@RCVerb उस_लड़के_ने,@RCSubj बहुत_मोटी@PreMainVerb है।@MainVerb",1,d
+"वह_बच्चा,@NP1 जिसने@RCPn रोटी@RCObj बहुत_जल्दी_से@PreRCVerb खायी_थी,@RCVerb मेरा_भतीजा@PreMainVerb है।@MainVerb",2,a
+"वह_बच्चा,@NP1 जिसने@RCPn बहुत_जल्दी_से@PreRCVerb खायी_थी@RCVerb रोटी,@RCObj मेरा_भतीजा@PreMainVerb है।@MainVerb",2,b
+"वह_रोटी,@NP1 जिसको@RCPn उस_बच्चे_ने@RCSubj बहुत_जल्दी_से@PreRCVerb खाया_था,@RCVerb दो_दिन_पुरानी@PreMainVerb है।@MainVerb",2,c
+"वह_रोटी,@NP1 जिसको@RCPn बहुत_जल्दी_से@PreRCVerb खाया_था@RCVerb उस_बच्चे_ने,@RCSubj दो_दिन_पुरानी@PreMainVerb है।@MainVerb",2,d
+"वह_आदमी,@NP1 जिसने@RCPn सब्जीयाँ@RCObj धीरे-धीरे@PreRCVerb चुनी_थीं,@RCVerb मेरे@PreMainVerb मुहल्ले_में@PreMainVerb रहता_है।@MainVerb",3,a
+"वह_आदमी,@NP1 जिसने@RCPn धीरे-धीरे@PreRCVerb चुनी_थीं@RCVerb सब्जीयाँ,@RCObj मेरे@PreMainVerb मुहल्ले_में@PreMainVerb रहता_है।@MainVerb",3,b
+"वह_सब्जीयाँ,@NP1 जिनको@RCPn उस_आदमी_ने@RCSubj धीरे-धीरे@PreRCVerb चुना_था,@RCVerb बहुत_महंगी@PreMainVerb हैं।@MainVerb",3,c
+"वह_सब्जीयाँ,@NP1 जिनको@RCPn धीरे-धीरे@PreRCVerb चुना_था@RCVerb उस_आदमी_ने,@RCSubj बहुत_महंगी@PreMainVerb हैं।@MainVerb",3,d
+"वह_बच्ची,@NP1 जिसने@RCPn मिठाई@RCObj आराम_से@PreRCVerb खायी_थी,@RCVerb मेरी@PreMainVerb बहन@PreMainVerb है।@MainVerb",4,a
+"वह_बच्ची,@NP1 जिसने@RCPn आराम_से@PreRCVerb खायी_थी@RCVerb मिठाई,@RCObj मेरी@PreMainVerb बहन@PreMainVerb है।@MainVerb",4,b
+"वह_मिठाई,@NP1 जिसको@RCPn उस_बच्ची_ने@RCSubj आराम_से@PreRCVerb खाया_था,@RCVerb बहुत_मीठी@PreMainVerb होती_है।@MainVerb",4,c
+"वह_मिठाई,@NP1 जिसको@RCPn आराम_से@PreRCVerb खाया_था@RCVerb उस_बच्ची_ने,@RCSubj बहुत_मीठी@PreMainVerb होती_है।@MainVerb",4,d
+"वह_औरत,@NP1 जिसने@RCPn नाव@RCObj पिछले_हफ्ते@PreRCVerb खरीदी_थी,@RCVerb इस_गाँव_की@PreMainVerb सरपंच@PreMainVerb है।@MainVerb",5,a
+"वह_औरत,@NP1 जिसने@RCPn पिछले_हफ्ते@PreRCVerb खरीदी_थी@RCVerb नाव,@RCObj इस_गाँव_की@PreMainVerb सरपंच@PreMainVerb है।@MainVerb",5,b
+"वह_नाव,@NP1 जिसको@RCPn उस_औरत_ने@RCSubj पिछले_हफ्ते@PreRCVerb खरीदा_था,@RCVerb बहुत_प्रसिद्ध@PreMainVerb है।@MainVerb",5,c
+"वह_नाव,@NP1 जिसको@RCPn पिछले_हफ्ते@PreRCVerb खरीदा_था@RCVerb उस_औरत_ने,@RCSubj बहुत_﻿प्रसिद्ध@PreMainVerb है।@MainVerb",5,d
+"वह_लड़की,@NP1 जिसने@RCPn कविता@RCObj सारे_लोगो_के_सामने@PreRCVerb गायी_थी,@RCVerb बहुत_गरीब@PreMainVerb है।@MainVerb",6,a
+"वह_लड़की,@NP1 जिसने@RCPn सारे_लोगो_के_सामने@PreRCVerb गायी_थी@RCVerb कविता,@RCObj बहुत_गरीब@PreMainVerb है।@MainVerb",6,b
+"वह_कविता,@NP1 जिसको@RCPn उस_लड़की_ने@RCSubj सारे_लोगो_के_सामने@PreRCVerb गाया_था,@RCVerb काफी_पुरानी@PreMainVerb है।@MainVerb",6,c
+"वह_कविता,@NP1 जिसको@RCPn सारे_लोगो_के_सामने@PreRCVerb गाया_था@RCVerb उस_लड़की_ने,@RCSubj काफी_पुरानी@PreMainVerb है।@MainVerb",6,d
+"वह_आदमी,@NP1 जिसने@RCPn स्कूटर@RCObj बड़ी_मेहनत_से@PreRCVerb साफ_की_थी,@RCVerb पुराना_कर्मचारी@PreMainVerb है।@MainVerb",7,a
+"वह_आदमी,@NP1 जिसने@RCPn बड़ी_मेहनत_से@PreRCVerb साफ_की_थी@RCVerb स्कूटर,@RCObj पुराना_कर्मचारी@PreMainVerb है।@MainVerb",7,b
+"वह_स्कूटर,@NP1 जिसको@RCPn उस_आदमी_ने@RCSubj बड़ी_मेहनत_से@PreRCVerb साफ_किया_था,@RCVerb बैटरी_से@PreMainVerb चलती_है।@MainVerb",7,c
+"वह_स्कूटर,@NP1 जिसको@RCPn बड़ी_मेहनत_से@PreRCVerb साफ_किया_था@RCVerb उस_आदमी_ने,@RCSubj बैटरी_से@PreMainVerb चलती_है।@MainVerb",7,d
+"वह_माली,@NP1 जिसने@RCPn लकड़ी@RCObj बहुत_दिलचस्पी_से@PreRCVerb रखी_थी,@RCVerb बहुत_बूढ़ा@PreMainVerb है।@MainVerb",8,a
+"वह_माली,@NP1 जिसने@RCPn बहुत_दिलचस्पी_से@PreRCVerb रखी_थी@RCVerb लकड़ी,@RCObj बहुत_बूढ़ा@PreMainVerb है।@MainVerb",8,b
+"वह_लकड़ी,@NP1 जिसको@RCPn उस_माली_ने@RCSubj बहुत_दिलचस्पी_से@PreRCVerb रखा_था,@RCVerb बहुत_विचित्र@PreMainVerb है।@MainVerb",8,c
+"वह_लकड़ी,@NP1 जिसको@RCPn बहुत_दिलचस्पी_से@PreRCVerb रखा_था@RCVerb उस_माली_ने,@RCSubj बहुत_विचित्र@PreMainVerb है।@MainVerb",8,d
+"वह_किसान,@NP1 जिसने@RCPn फसल@RCObj कल_सुबाह@PreRCVerb मैदान_में@PreRCVerb काटी_थी,@RCVerb बहुत_मेहनती@PreMainVerb है।@MainVerb",9,a
+"वह_किसान,@NP1 जिसने@RCPn कल_सुबाह@PreRCVerb मैदान_में@PreRCVerb काटी_थी@RCVerb फसल,@RCObj बहुत_मेहनती@PreMainVerb है।@MainVerb",9,b
+"वह_फसल,@NP1 जिसको@RCPn उस_किसान_ने@RCSubj कल_सुबाह@PreRCVerb मैदान_में@PreRCVerb काटा_था,@RCVerb काफी_महंगी@PreMainVerb है।@MainVerb",9,c
+"वह_फसल,@NP1 जिसको@RCPn कल_सुबाह@PreRCVerb मैदान_में@PreRCVerb काटा_था@RCVerb उस_किसान_ने,@RCSubj काफी_महंगी@PreMainVerb है।@MainVerb",9,d
+"वह_टी-टी,@NP1 जिसने@RCPn सिगरेट@RCObj वेटिंग_रूम_के_सामने@PreRCVerb मांगी_थी,@RCVerb मेरी@PreMainVerb मौसी_का@PreMainVerb रिशतेदार@PreMainVerb है।@MainVerb",10,a
+"वह_टी-टी,@NP1 जिसने@RCPn वेटिंग_रूम_के_सामने@PreRCVerb मांगी_थी@RCVerb सिगरेट,@RCObj मेरी@PreMainVerb मौसी_का@PreMainVerb रिशतेदार@PreMainVerb है।@MainVerb",10,b
+"वह_सिगरेट,@NP1 जिसको@RCPn उस_टी-टी_ने@RCSubj वेटिंग_रूम_के_सामने@PreRCVerb मांगा_था,@RCVerb विलायत_से@PreMainVerb आती_है।@MainVerb",10,c
+"वह_सिगरेट,@NP1 जिसको@RCPn वेटिंग_रूम_के_सामने@PreRCVerb मांगा_था@RCVerb उस_टी-टी_ने,@RCSubj विलायत_से@PreMainVerb आती_है।@MainVerb",10,d
+"वह_बढ़ई,@NP1 जिसने@RCPn अलमारी@RCObj नीम_के_पेड़_के_नीचे@PreRCVerb बनायी_थी,@RCVerb यहाँ@PreMainVerb कई_सालों_से@PreMainVerb काम_कर_रहा_है।@MainVerb",11,a
+"वह_बढ़ई,@NP1 जिसने@RCPn नीम_के_पेड़_के_नीचे@PreRCVerb बनायी_थी@RCVerb अलमारी,@RCObj यहाँ@PreMainVerb कई_सालों_से@PreMainVerb काम_कर_रहा_है।@MainVerb",11,b
+"वह_अलमारी,@NP1 जिसको@RCPn उस_बढ़ई_ने@RCSubj नीम_के_पेड़_के_नीचे@PreRCVerb बनाया_था,@RCVerb लकड़ी_की@PreMainVerb है।@MainVerb",11,c
+"वह_अलमारी,@NP1 जिसको@RCPn नीम_के_पेड़_के_नीचे@PreRCVerb बनाया_था@RCVerb उस_बढ़ई_ने,@RCSubj लकड़ी_की@PreMainVerb है।@MainVerb",11,d
+"वह_दुकानदार,@NP1 जिसने@RCPn पुरानी_बन्दूक@RCObj इस_साल@PreRCVerb एक-दो_बार@PreRCVerb म्यूजियम_में@PreRCVerb दिखायी_थी,@RCVerb मशहूर_संग्रहकर्ता@PreMainVerb है।@MainVerb",12,a
+"वह_दुकानदार,@NP1 जिसने@RCPn इस_साल@PreRCVerb एक-दो_बार@PreRCVerb म्यूजियम_में@PreRCVerb दिखायी_थी@RCVerb पुरानी_बन्दूक,@RCObj मशहूर_संग्रहकर्ता@PreMainVerb है।@MainVerb",12,b
+"वह_बन्दूक,@NP1 जिसको@RCPn उस_दुकानदार_ने@RCSubj इस_साल@PreRCVerb एक-दो_बार@PreRCVerb म्यूजियम_में@PreRCVerb दिखाया_था,@RCVerb अंग्रेज़ो_के_ज़माने_की@PreMainVerb है।@MainVerb",12,c
+"वह_बन्दूक,@NP1 जिसको@RCPn इस_साल@PreRCVerb एक-दो_बार@PreRCVerb म्यूजियम_में@PreRCVerb दिखाया_था@RCVerb उस_दुकानदार_ने,@RCSubj अंग्रेज़ो_के_ज़माने_की@PreMainVerb है।@MainVerb",12,d
+"वह_प्रोफेसर,@NP1 जिसने@RCPn पहेली@RCObj क्लास_में@PreRCVerb सुलझाई_थी,@RCVerb गणित@PreMainVerb बहुत_अच्छा@PreMainVerb पढ़ाते_हैं।@MainVerb",13,a
+"वह_प्रोफेसर,@NP1 जिसने@RCPn क्लास_में@PreRCVerb सुलझाई_थी@RCVerb पहेली,@RCObj गणित@PreMainVerb बहुत_अच्छा@PreMainVerb पढ़ाते_हैं।@MainVerb",13,b
+"वह_पहेली,@NP1 जिसको@RCPn उस_प्रोफेसर_ने@RCSubj क्लास_में@PreRCVerb सुलझाया_था,@RCVerb बहुत_कठिन@PreMainVerb थी।@MainVerb",13,c
+"वह_पहेली,@NP1 जिसको@RCPn क्लास_में@PreRCVerb सुलझाया_था@RCVerb उस_प्रोफेसर_ने,@RCSubj बहुत_कठिन@PreMainVerb थी।@MainVerb",13,d
+"वह_ग्राहक,@NP1 जिसने@RCPn कमीज@RCObj बहुत_जल्दीबाजी_में@PreRCVerb खरीदी_थी,@RCVerb इस_दुकान_में@PreMainVerb कई_बार@PreMainVerb आ_चुका_है।@MainVerb",14,a
+"वह_ग्राहक,@NP1 जिसने@RCPn बहुत_जल्दीबाजी_में@PreRCVerb खरीदी_थी@RCVerb कमीज,@RCObj इस_दुकान_में@PreMainVerb कई_बार@PreMainVerb आ_चुका_है।@MainVerb",14,b
+"वह_कमीज,@NP1 जिसको@RCPn उस_ग्राहक_ने@RCSubj बहुत_जल्दीबाजी_में@PreRCVerb खरीदा_था,@RCVerb जापान_में@PreMainVerb बनती_है।@MainVerb",14,c
+"वह_कमीज,@NP1 जिसको@RCPn बहुत_जल्दीबाजी_में@PreRCVerb खरीदा_था@RCVerb उस_ग्राहक_ने,@RCSubj जापान_में@PreMainVerb बनती_है।@MainVerb",14,d
+"वह_लड़का,@NP1 जिसने@RCPn मोटरसाइकिल@RCObj पिछले_हफते@PreRCVerb खरीदी_थी,@RCVerb डाक्टरी_की@PreMainVerb पढ़ाई_कर_रहा_है।@MainVerb",15,a
+"वह_लड़का,@NP1 जिसने@RCPn पिछले_हफते@PreRCVerb खरीदी_थी@RCVerb मोटरसाइकिल,@RCObj डाक्टरी_की@PreMainVerb पढ़ाई_कर_रहा_है।@MainVerb",15,b
+"वह_मोटरसाइकिल,@NP1 जिसको@RCPn उस_लड़के_ने@RCSubj पिछले_हफते@PreRCVerb खरीदा_था,@RCVerb बजाज_की@PreMainVerb नई_पेशकश@PreMainVerb है।@MainVerb",15,c
+"वह_मोटरसाइकिल,@NP1 जिसको@RCPn पिछले_हफते@PreRCVerb खरीदा_था@RCVerb उस_लड़के_ने,@RCSubj बजाज_की@PreMainVerb नई_पेशकश@PreMainVerb है।@MainVerb",15,d
+"वह_बच्ची,@NP1 जिसने@RCPn डिब्बी@RCObj धीरे_से@PreRCVerb चुपके-चुपके@PreRCVerb खोली_थी,@RCVerb बहुत_शरारती@PreMainVerb है।@MainVerb",16,a
+"वह_बच्ची,@NP1 जिसने@RCPn धीरे_से@PreRCVerb चुपके-चुपके@PreRCVerb खोली_थी@RCVerb डिब्बी,@RCObj बहुत_शरारती@PreMainVerb है।@MainVerb",16,b
+"वह_डिब्बी,@NP1 जिसको@RCPn उस_बच्ची_ने@RCSubj धीरे_से@PreRCVerb चुपके-चुपके@PreRCVerb खोला_था,@RCVerb मेरी@PreMainVerb दादी_की@PreMainVerb है।@MainVerb",16,c
+"वह_डिब्बी,@NP1 जिसको@RCPn धीरे_से@PreRCVerb चुपके-चुपके@PreRCVerb खोला_था@RCVerb उस_बच्ची_ने,@RCSubj मेरी@PreMainVerb दादी_की@PreMainVerb है।@MainVerb",16,d
+"वह_आदमी,@NP1 जिसने@RCPn टाई@RCObj बड़ी_स्टाईल_से@PreRCVerb पहनी_हुई_थी,@RCVerb हमारे_कालेज_में@PreMainVerb काम_करता_है।@MainVerb",17,a
+"वह_आदमी,@NP1 जिसने@RCPn बड़ी_स्टाईल_से@PreRCVerb पहनी_हुई_थी@RCVerb टाई,@RCObj हमारे_कालेज_में@PreMainVerb काम_करता_है।@MainVerb",17,b
+"वह_टाई,@NP1 जिसको@RCPn उस_आदमी_ने@RCSubj बड़ी_स्टाईल_से@PreRCVerb पहना_हुआ_था,@RCVerb आज_कल@PreMainVerb फैशन_में@PreMainVerb है।@MainVerb",17,c
+"वह_टाई,@NP1 जिसको@RCPn बड़ी_स्टाईल_से@PreRCVerb पहना_हुआ_था@RCVerb उस_आदमी_ने,@RCSubj आज_कल@PreMainVerb फैशन_में@PreMainVerb है।@MainVerb",17,d
+"वह_औरत,@NP1 जिसने@RCPn लाल_गाड़ी@RCObj पिछले_महीने@PreRCVerb खरीदी_थी,@RCVerb मेरे@PreMainVerb बेटे_की@PreMainVerb टीचर@PreMainVerb है।@MainVerb",18,a
+"वह_औरत,@NP1 जिसने@RCPn पिछले_महीने@PreRCVerb खरीदी_थी@RCVerb लाल_गाड़ी,@RCObj मेरे@PreMainVerb बेटे_की@PreMainVerb टीचर@PreMainVerb है।@MainVerb",18,b
+"वह_लाल_गाड़ी,@NP1 जिसको@RCPn उस_औरत_ने@RCSubj पिछले_महीने@PreRCVerb खरीदा_था,@RCVerb लोगो_में@PreMainVerb काफी_लोकप्रिय@PreMainVerb है।@MainVerb",18,c
+"वह_लाल_गाड़ी,@NP1 जिसको@RCPn पिछले_महीने@PreRCVerb खरीदा_था@RCVerb उस_औरत_ने,@RCSubj लोगो_में@PreMainVerb काफी_लोकप्रिय@PreMainVerb है।@MainVerb",18,d
+"वह_डाक्टर,@NP1 जिसने@RCPn दवाईयां@RCObj कल_शाम@PreRCVerb फेकीं_थीं,@RCVerb बहुत_होशियार@PreMainVerb है।@MainVerb",19,a
+"वह_डाक्टर,@NP1 जिसने@RCPn कल_शाम@PreRCVerb फेकीं_थीं@RCVerb दवाईयां,@RCObj बहुत_होशियार@PreMainVerb है।@MainVerb",19,b
+"वह_दवाईयां,@NP1 जिनको@RCPn उस_डाक्टर_ने@RCSubj कल_शाम@PreRCVerb फेका_था,@RCVerb खराब@PreMainVerb हो_गईं_थीं।@MainVerb",19,c
+"वह_दवाईयां,@NP1 जिनको@RCPn कल_शाम@PreRCVerb फेका_था@RCVerb उस_डाक्टर_ने,@RCSubj खराब@PreMainVerb हो_गईं_थीं।@MainVerb",19,d
+"वह_इंजीनियर,@NP1 जिसने@RCPn वह_बिल्डिंग@RCObj बहुत_धीरे-धीरे@PreRCVerb बनायी_थी,@RCVerb मरे@PreMainVerb दोस्त_की@PreMainVerb कंपनी_में@PreMainVerb काम_करता_है।@MainVerb",20,a
+"वह_इंजीनियर,@NP1 जिसने@RCPn बहुत_धीरे-धीरे@PreRCVerb बनायी_थी@RCVerb वह_बिल्डिंग,@RCObj मरे@PreMainVerb दोस्त_की@PreMainVerb कंपनी_में@PreMainVerb काम_करता_है।@MainVerb",20,b
+"हमारी_बिल्डिंग,@NP1 जिसको@RCPn उस_इंजीनियर_ने@RCSubj बहुत_धीरे-धीरे@PreRCVerb बनाया_था,@RCVerb बहुत_सुनसान_इलाके_में@PreMainVerb है।@MainVerb",20,c
+"हमारी_बिल्डिंग,@NP1 जिसको@RCPn बहुत_धीरे-धीरे@PreRCVerb बनाया_था@RCVerb उस_इंजीनियर_ने,@RCSubj बहुत_सुनसान_इलाके_में@PreMainVerb है।@MainVerb",20,d
+"वह_लड़की,@NP1 जिसने@RCPn सारी_फाइलें@RCObj पिछले_हफते@PreRCVerb शाम_के_समय@PreRCVerb उठायीं_थीं,@RCVerb बहुत_अच्छा_गाना@PreMainVerb गाती_है।@MainVerb",21,a
+"वह_लड़की,@NP1 जिसने@RCPn पिछले_हफते@PreRCVerb शाम_के_समय@PreRCVerb उठायीं_थीं@RCVerb सारी_फाइलें,@RCObj बहुत_अच्छा_गाना@PreMainVerb गाती_है।@MainVerb",21,b
+"वह_फाइलें,@NP1 जिनको@RCPn उस_लड़की_ने@RCSubj पिछले_हफते@PreRCVerb शाम_के_समय@PreRCVerb उठाया_था,@RCVerb दो_साल_से@PreMainVerb एक_जगह_पर@PreMainVerb सड़_रहीं_थीं।@MainVerb",21,c
+"वह_फाइलें,@NP1 जिनको@RCPn पिछले_हफते@PreRCVerb शाम_के_समय@PreRCVerb उठाया_था@RCVerb उस_लड़की_ने,@RCSubj दो_साल_से@PreMainVerb एक_जगह_पर@PreMainVerb सड़_रहीं_थीं।@MainVerb",21,d
+"वह_हलवाई,@NP1 जिसने@RCPn कढाई@RCObj बड़ी_सावधानी_से@PreRCVerb पकड़ी_थी,@RCVerb इस_मोहल्ले_में@PreMainVerb एक_नई_दुकान@PreMainVerb खोल_रहा_है।@MainVerb",22,a
+"वह_हलवाई,@NP1 जिसने@RCPn बड़ी_सावधानी_से@PreRCVerb पकड़ी_थी@RCVerb कढाई,@RCObj इस_मोहल्ले_में@PreMainVerb एक_नई_दुकान@PreMainVerb खोल_रहा_है।@MainVerb",22,b
+"वह_कढाई,@NP1 जिसको@RCPn उस_हलवाई_ने@RCSubj बड़ी_सावधानी_से@PreRCVerb पकड़ा_था,@RCVerb असली_पीतल_से@PreMainVerb बनी_है।@MainVerb",22,c
+"वह_कढाई,@NP1 जिसको@RCPn बड़ी_सावधानी_से@PreRCVerb पकड़ा_था@RCVerb उस_हलवाई_ने,@RCSubj असली_पीतल_से@PreMainVerb बनी_है।@MainVerb",22,d
+"वह_कुली,@NP1 जिसने@RCPn बड़ी_अटैची@RCObj एक_झटके_में@PreRCVerb उठा_ली_थी,@RCVerb रात_में@PreMainVerb टैक्सी@PreMainVerb चलाता_है।@MainVerb",23,a
+"वह_कुली,@NP1 जिसने@RCPn एक_झटके_में@PreRCVerb उठा_ली_थी@RCVerb बड़ी_अटैची,@RCObj रात_में@PreMainVerb टैक्सी@PreMainVerb चलाता_है।@MainVerb",23,b
+"वह_बड़ी_अटैची,@NP1 जिसको@RCPn उस_कुली_ने@RCSubj एक_झटके_में@PreRCVerb उठा_लिया_था,@RCVerb ट्रेन_में@PreMainVerb गुम_हो_गयी।@MainVerb",23,c
+"वह_बड़ी_अटैची,@NP1 जिसको@RCPn एक_झटके_में@PreRCVerb उठा_लिया_था@RCVerb उस_कुली_ने,@RCSubj ट्रेन_में@PreMainVerb गुम_हो_गयी।@MainVerb",23,d
+"वह_अध्यापक,@NP1 जिसने@RCPn किताबें@RCObj पिछले_साल@PreRCVerb गर्मियों_में@PreRCVerb बेचीं_थीं,@RCVerb बरेली_का@PreMainVerb रहनेवाला है।@MainVerb",24,a
+"वह_अध्यापक,@NP1 जिसने@RCPn पिछले_साल@PreRCVerb गर्मियों_में@PreRCVerb बेचीं_थीं@RCVerb किताबें,@RCObj बरेली_का@PreMainVerb रहनेवाला है।@MainVerb",24,b
+"वह_किताबें,@NP1 जिनको@RCPn उस_अध्यापक_ने@RCSubj पिछले_साल@PreRCVerb गर्मियों_में@PreRCVerb बेचा_था,@RCVerb पुरानी@PreMainVerb हो_रहीं_थीं।@MainVerb",24,c
+"वह_किताबें,@NP1 जिनको@RCPn पिछले_साल@PreRCVerb गर्मियों_में@PreRCVerb बेचा_था@RCVerb उस_अध्यापक_ने,@RCSubj पुरानी@PreMainVerb हो_रहीं_थीं।@MainVerb",24,d
