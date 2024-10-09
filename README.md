@@ -1,2 +1,3 @@
-# HDC_stanza_pipeline
-This is first stage coding part of Hindi Dialogue corpus
+# HDC_disfluencies_model
+This is second stage of coding part of the Hindi Dialogue Corpus
+

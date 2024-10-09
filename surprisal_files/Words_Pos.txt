@@ -1,0 +1,1607 @@
+# sent_id = 0
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़का	लडका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	बहुत	बहुत	DET	QF	PronType=Ind	4	_	_	_
+6	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	_	_	_
+8	पढ़ी	पढ़	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	मेरा	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	दोस्त	दोस्त	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 1
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़का	लडका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पढ़ी	पढ़	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	मेरा	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	दोस्त	दोस्त	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 2
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	लड़के	लड़का	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बहुत	बहुत	DET	QF	PronType=Ind	6	_	_	_
+8	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	_	_	_
+10	पढ़ा	पढ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	बहुत	बहुत	ADV	INTF	AdvType=Deg	11	_	_	_
+13	मोटी	मोटा	ADJ	JJ	Gender=Fem|Number=Sing	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 3
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पढ़ा	पढ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	लड़के	लड़का	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	बहुत	बहुत	DET	QF	PronType=Ind	11	_	_	_
+13	मोटी	मोटा	ADJ	JJ	Gender=Fem|Number=Sing	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 4
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्चा	बच्चा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	बहुत	बहुत	DET	QF	PronType=Ind	4	_	_	_
+6	जल्दी	जल्दी	ADV	RB	_	5	_	_	_
+7	से	से	PART	RP	_	6	_	_	_
+8	खायी	खा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	मेरा	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	भतीजा	भतीजा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 5
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्चा	बच्चा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	जल्दी	जल्दी	ADV	RB	_	4	_	_	_
+6	से	से	PART	RP	_	5	_	_	_
+7	खायी	खा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	मेरा	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	भतीजा	भतीजा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 6
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	बच्चे	बच्चा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बहुत	बहुत	DET	QF	PronType=Ind	6	_	_	_
+8	जल्दी	जल्दी	ADV	RB	_	7	_	_	_
+9	से	से	PART	RP	_	8	_	_	_
+10	खाया	खा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	दो	दो	NUM	QC	NumType=Card	11	_	_	_
+13	दिन	दिन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 7
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	जल्दी	जल्दी	ADV	RB	_	4	_	_	_
+6	से	से	PART	RP	_	5	_	_	_
+7	खाया	खा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	बच्चे	बच्चा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	दो	दो	NUM	QC	NumType=Card	11	_	_	_
+13	दिन	दिन	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	_	_	_
+14	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 8
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	सब्जीयाँ	सब्जी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	3	_	_	_
+5	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	4	_	_	_
+6	चुनी	चुन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	5	_	_	_
+7	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	_	_	_
+8	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	_
+9	मुहल्ले	मुहल्ला	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	में	में	ADP	PSP	AdpType=Post	9	_	_	_
+11	रहता	रह	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 9
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	3	_	_	_
+5	चुनी	चुन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	4	_	_	_
+6	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	_	_	_
+7	सब्जीयाँ	सब्जी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	6	_	_	_
+8	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	_
+9	मुहल्ले	मुहल्ला	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	में	में	ADP	PSP	AdpType=Post	9	_	_	_
+11	रहता	रह	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 10
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	सब्जीयाँ	सब्जी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	6	_	_	_
+8	चुना	चुन	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	महंगी	महंगा	ADJ	JJ	Gender=Fem|Number=Plur	10	_	_	_
+12	हैं।	हैं।	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	_
+
+# sent_id = 11
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	सब्जीयाँ	सब्जी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	3	_	_	_
+5	चुना	चुन	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	_	_	_
+6	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	_	_	_
+7	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	6	_	_	_
+8	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	ने	ने	ADP	PSP	AdpType=Post	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	महंगी	महंगा	ADJ	JJ	Gender=Fem|Number=Plur	10	_	_	_
+12	हैं।	हैं।	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	_
+
+# sent_id = 12
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्ची	बच्ची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	मिठाई	मिठाई	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	आराम	आराम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	खायी	खा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	_	_	_
+10	बहन	बहन	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	है।	है।	PUNCT	SYM	_	10	_	_	_
+
+# sent_id = 13
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्ची	बच्ची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	आराम	आराम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	से	से	ADP	PSP	AdpType=Post	4	_	_	_
+6	खायी	खा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	मिठाई	मिठाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	_	_	_
+10	बहन	बहन	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	है।	है।	PUNCT	SYM	_	10	_	_	_
+
+# sent_id = 14
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	मिठाई	मिठाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	बच्ची	बच्ची	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	आराम	आराम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	से	से	ADP	PSP	AdpType=Post	7	_	_	_
+9	खाया	खा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	मीठी	मीठा	ADJ	JJ	Gender=Fem|Number=Sing	11	_	_	_
+13	होती	हो	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 15
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	मिठाई	मिठाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	आराम	आराम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	से	से	ADP	PSP	AdpType=Post	4	_	_	_
+6	खाया	खा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	बच्ची	बच्ची	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	मीठी	मीठा	ADJ	JJ	Gender=Fem|Number=Sing	11	_	_	_
+13	होती	हो	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 16
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	औरत	औरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	नाव	नाव	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	हफ्ते	हफ्ता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	गाँव	गाँव	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	10	_	_	_
+12	सरपंच	सरपंच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 17
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	औरत	औरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफ्ते	हफ्ता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	नाव	नाव	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	गाँव	गाँव	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	10	_	_	_
+12	सरपंच	सरपंच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 18
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	नाव	नाव	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	औरत	औरत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	6	_	_	_
+8	हफ्ते	हफ्ता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	प्रसिद्ध	प्रसिद्ध	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 19
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	नाव	नाव	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफ्ते	हफ्ता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	औरत	औरत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	बहुत	बहुत	DET	QF	PronType=Ind	10	_	_	_
+12	﻿प्रसिद्ध	﻿प्रसिद्ध	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 20
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़की	लड़की	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कविता	कविता	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	सारे	सारा	DET	QF	Case=Acc|Gender=Masc|Number=Plur	4	_	_	_
+6	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post	6	_	_	_
+8	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	गायी	गा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	गरीब	गरीब	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 21
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़की	लड़की	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	सारे	सारा	DET	QF	Case=Acc|Gender=Masc|Number=Plur	3	_	_	_
+5	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	4	_	_	_
+6	के	का	ADP	PSP	AdpType=Post	5	_	_	_
+7	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	गायी	गा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	कविता	कविता	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	गरीब	गरीब	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 22
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कविता	कविता	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	लड़की	लड़की	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	सारे	सारा	DET	QF	Case=Acc|Gender=Masc|Number=Plur	6	_	_	_
+8	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	_	_	_
+9	के	का	ADP	PSP	AdpType=Post	8	_	_	_
+10	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	गाया	गा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	_
+13	काफी	काफी	DET	QF	PronType=Ind	12	_	_	_
+14	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 23
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कविता	कविता	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	सारे	सारा	DET	QF	Case=Acc|Gender=Masc|Number=Plur	3	_	_	_
+5	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	4	_	_	_
+6	के	का	ADP	PSP	AdpType=Post	5	_	_	_
+7	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	गाया	गा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	लड़की	लड़की	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	काफी	काफी	DET	QF	PronType=Ind	12	_	_	_
+14	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 24
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	स्कूटर	स्कूटर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	4	_	_	_
+6	मेहनत	मेहनत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	_	_	_
+8	साफ	साफ	ADJ	JJ	_	7	_	_	_
+9	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	पुराना	पुराना	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	10	_	_	_
+12	कर्मचारी	कर्मचारी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 25
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	मेहनत	मेहनत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	साफ	साफ	ADJ	JJ	_	6	_	_	_
+8	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	स्कूटर	स्कूटर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	पुराना	पुराना	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	10	_	_	_
+12	कर्मचारी	कर्मचारी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 26
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	स्कूटर	स्कूटर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	6	_	_	_
+8	मेहनत	मेहनत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	_	_	_
+10	साफ	साफ	ADJ	JJ	_	9	_	_	_
+11	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	_
+13	बैटरी	बैटरी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	चलती	चल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 27
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	स्कूटर	स्कूटर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	मेहनत	मेहनत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	साफ	साफ	ADJ	JJ	_	6	_	_	_
+8	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	बैटरी	बैटरी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	चलती	चल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 28
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	माली	माली	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	बहुत	बहुत	DET	QF	PronType=Ind	4	_	_	_
+6	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	_	_	_
+8	रखी	रख	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	बूढ़ा	बूढ़ा	ADJ	JJ	Gender=Masc|Number=Sing	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 29
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	माली	माली	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	रखी	रख	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	बूढ़ा	बूढ़ा	ADJ	JJ	Gender=Masc|Number=Sing	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 30
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	माली	माली	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बहुत	बहुत	DET	QF	PronType=Ind	6	_	_	_
+8	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	_	_	_
+10	रखा	रख	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	बहुत	बहुत	ADV	INTF	AdvType=Deg	11	_	_	_
+13	विचित्र	विचित्र	ADJ	JJ	_	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 31
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	दिलचस्पी	दिलचस्पी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	रखा	रख	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	माली	माली	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	बहुत	बहुत	ADV	INTF	AdvType=Deg	11	_	_	_
+13	विचित्र	विचित्र	ADJ	JJ	_	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 32
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	किसान	किसान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	फसल	फसल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	सुबाह	सुबाह	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	मैदान	मैदान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	में	में	ADP	PSP	AdpType=Post	7	_	_	_
+9	काटी	काट	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	मेहनती	मेहनती	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 33
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	किसान	किसान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	सुबाह	सुबाह	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	मैदान	मैदान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	_	_	_
+8	काटी	काट	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	फसल	फसल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	मेहनती	मेहनती	ADJ	JJ	_	11	_	_	_
+13	है।	है।	PUNCT	SYM	_	12	_	_	_
+
+# sent_id = 34
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	फसल	फसल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	किसान	किसान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	सुबाह	सुबाह	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	मैदान	मैदान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	में	में	ADP	PSP	AdpType=Post	9	_	_	_
+11	काटा	काट	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	_
+13	काफी	काफी	DET	QF	PronType=Ind	12	_	_	_
+14	महंगी	महंगा	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 35
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	फसल	फसल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	सुबाह	सुबाह	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	मैदान	मैदान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	_	_	_
+8	काटा	काट	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	किसान	किसान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	काफी	काफी	DET	QF	PronType=Ind	12	_	_	_
+14	महंगी	महंगा	ADJ	JJ	Gender=Fem|Number=Sing	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 36
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	टी-टी	टी-टी	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	सिगरेट	सिगरेट	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	वेटिंग	वेटिंग	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	रूम	रूम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post	6	_	_	_
+8	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	मांगी	मांग	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	_	_	_
+12	मौसी	मौसी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	12	_	_	_
+14	रिशतेदार	रिशतेदार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 37
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	टी-टी	टी-टी	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	वेटिंग	वेटिंग	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	रूम	रूम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	के	का	ADP	PSP	AdpType=Post	5	_	_	_
+7	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	मांगी	मांग	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	सिगरेट	सिगरेट	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	_	_	_
+12	मौसी	मौसी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	12	_	_	_
+14	रिशतेदार	रिशतेदार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 38
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	सिगरेट	सिगरेट	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	टी-टी	टी-टी	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	वेटिंग	वेटिंग	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	_	_	_
+8	रूम	रूम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	के	का	ADP	PSP	AdpType=Post	8	_	_	_
+10	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	मांगा	मांग	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	_
+13	विलायत	विलायत	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	आती	आ	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 39
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	सिगरेट	सिगरेट	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	वेटिंग	वेटिंग	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	रूम	रूम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	के	का	ADP	PSP	AdpType=Post	5	_	_	_
+7	सामने	सामने	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	मांगा	मांग	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	टी-टी	टी-टी	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	विलायत	विलायत	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	आती	आ	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 40
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	बढ़ई	बढ़ई	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	अलमारी	अलमारी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	नीम	नीम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	_	_	_
+7	पेड़	पेड	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	के	का	ADP	PSP	AdpType=Post	7	_	_	_
+9	नीचे	नीचे	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	बनायी	बना	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	यहाँ	यहाँ	PRON	PRP	Case=Nom|PronType=Prs	11	_	_	_
+13	कई	कई	DET	QF	PronType=Ind	12	_	_	_
+14	सालों	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	13	_	_	_
+15	से	से	ADP	PSP	AdpType=Post	14	_	_	_
+16	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	_	_	_
+17	कर	कर	VERB	VM	Number=Sing|Voice=Act	16	_	_	_
+18	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	17	_	_	_
+19	है।	है।	PUNCT	SYM	_	18	_	_	_
+
+# sent_id = 41
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	बढ़ई	बढ़ई	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	नीम	नीम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	पेड़	पेड	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post	6	_	_	_
+8	नीचे	नीचे	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	बनायी	बना	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	अलमारी	अलमारी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	_	_	_
+12	यहाँ	यहाँ	PRON	PRP	Case=Nom|PronType=Prs	11	_	_	_
+13	कई	कई	DET	QF	PronType=Ind	12	_	_	_
+14	सालों	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	13	_	_	_
+15	से	से	ADP	PSP	AdpType=Post	14	_	_	_
+16	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	_	_	_
+17	कर	कर	VERB	VM	Number=Sing|Voice=Act	16	_	_	_
+18	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	17	_	_	_
+19	है।	है।	PUNCT	SYM	_	18	_	_	_
+
+# sent_id = 42
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	अलमारी	अलमार	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	बढ़ई	बढ़ई	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	नीम	नीम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	7	_	_	_
+9	पेड़	पेड	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	के	का	ADP	PSP	AdpType=Post	9	_	_	_
+11	नीचे	नीचे	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	बनाया	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	11	_	_	_
+13	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	_	_	_
+14	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 43
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	अलमारी	अलमार	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	नीम	नीम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	पेड़	पेड	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post	6	_	_	_
+8	नीचे	नीचे	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	बनाया	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	10	_	_	_
+12	बढ़ई	बढ़ई	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	ने	ने	ADP	PSP	AdpType=Post	12	_	_	_
+14	लकड़ी	लकडी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 44
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	दुकानदार	दुकानदार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पुरानी	पुराना	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	3	_	_	_
+5	बन्दूक	बन्दूक	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	5	_	_	_
+7	साल	साल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	एक-दो	एक-दो	DET	QF	PronType=Ind	7	_	_	_
+9	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	म्यूजियम	म्यूजियम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	में	में	ADP	PSP	AdpType=Post	10	_	_	_
+12	दिखायी	दिखा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	11	_	_	_
+13	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	_	_	_
+14	मशहूर	मशहूर	ADJ	JJ	Case=Nom	13	_	_	_
+15	संग्रहकर्ता	संग्रहकर्ता	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 45
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	दुकानदार	दुकानदार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	साल	साल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	एक-दो	एक-दो	NUM	QC	NumType=Card	5	_	_	_
+7	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	_	_	_
+8	म्यूजियम	म्यूजियम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	में	में	ADP	PSP	AdpType=Post	8	_	_	_
+10	दिखायी	दिखा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	पुरानी	पुराना	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	11	_	_	_
+13	बन्दूक	बन्दूक	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	मशहूर	मशहूर	ADJ	JJ	Case=Nom	13	_	_	_
+15	संग्रहकर्ता	संग्रहकर्ता	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 46
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बन्दूक	बन्दूक	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	दुकानदार	दुकानदार	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	6	_	_	_
+8	साल	साल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	एक-दो	एक-दो	NUM	QC	NumType=Card	8	_	_	_
+10	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	म्यूजियम	म्यूजियम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	में	में	ADP	PSP	AdpType=Post	11	_	_	_
+13	दिखाया	दिखा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	12	_	_	_
+14	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	_	_	_
+15	अंग्रेज़ो	अंग्रेज़ो	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	15	_	_	_
+17	ज़माने	जमाना	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	_	_	_
+18	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	17	_	_	_
+19	है।	है।	PUNCT	SYM	_	18	_	_	_
+
+# sent_id = 47
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बन्दूक	बन्दूक	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	साल	साल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	एक-दो	एक-दो	NUM	QC	NumType=Card	5	_	_	_
+7	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	_	_	_
+8	म्यूजियम	म्यूजियम	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	_	_	_
+9	में	में	ADP	PSP	AdpType=Post	8	_	_	_
+10	दिखाया	दिखा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	11	_	_	_
+13	दुकानदार	दुकानदार	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	ने	ने	ADP	PSP	AdpType=Post	13	_	_	_
+15	अंग्रेज़ो	अंग्रेज़ो	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	15	_	_	_
+17	ज़माने	जमाना	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	16	_	_	_
+18	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	17	_	_	_
+19	है।	है।	PUNCT	SYM	_	18	_	_	_
+
+# sent_id = 48
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	प्रोफेसर	प्रोफेसर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पहेली	पहेली	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	क्लास	क्लास	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	में	में	ADP	PSP	AdpType=Post	5	_	_	_
+7	सुलझाई	सुलझा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	गणित	गणित	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	अच्छा	अच्छा	ADJ	JJ	Gender=Masc|Number=Sing	10	_	_	_
+12	पढ़ाते	पढा	VERB	VM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act	11	_	_	_
+13	हैं।	हैं।	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	_
+
+# sent_id = 49
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	प्रोफेसर	प्रोफेसर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	क्लास	क्लास	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	में	में	ADP	PSP	AdpType=Post	4	_	_	_
+6	सुलझाई	सुलझा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	पहेली	पहेली	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	गणित	गणित	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	अच्छा	अच्छा	ADJ	JJ	Gender=Masc|Number=Sing	10	_	_	_
+12	पढ़ाते	पढा	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	11	_	_	_
+13	हैं।	हैं।	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	12	_	_	_
+
+# sent_id = 50
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	पहेली	पहेली	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	प्रोफेसर	प्रोफेसर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	क्लास	क्लास	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	_	_	_
+8	में	में	ADP	PSP	AdpType=Post	7	_	_	_
+9	सुलझाया	सुलझा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	कठिन	कठिन	ADJ	JJ	_	11	_	_	_
+13	थी।	थी।	AUX	VM	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	_
+
+# sent_id = 51
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	पहेली	पहेली	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	क्लास	क्लास	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	में	में	ADP	PSP	AdpType=Post	4	_	_	_
+6	सुलझाया	सुलझा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	प्रोफेसर	प्रोफेसर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	कठिन	कठिन	ADJ	JJ	_	11	_	_	_
+13	थी।	थी।	AUX	VM	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	_
+
+# sent_id = 52
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	ग्राहक	ग्राहक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कमीज	कमीज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	बहुत	बहुत	DET	QF	PronType=Ind	4	_	_	_
+6	जल्दीबाजी	जल्दीबाजी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	_	_	_
+8	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	दुकान	दुकान	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	_	_	_
+12	में	में	ADP	PSP	AdpType=Post	11	_	_	_
+13	कई	कई	DET	QF	PronType=Ind	12	_	_	_
+14	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	13	_	_	_
+15	आ	आ	VERB	VM	Number=Sing|Voice=Act	14	_	_	_
+16	चुका	चुक	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 53
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	ग्राहक	ग्राहक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	जल्दीबाजी	जल्दीबाजी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	में	में	ADP	PSP	AdpType=Post	5	_	_	_
+7	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	कमीज	कमीज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	दुकान	दुकान	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	_	_	_
+12	में	में	ADP	PSP	AdpType=Post	11	_	_	_
+13	कई	कई	DET	QF	PronType=Ind	12	_	_	_
+14	बार	बार	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	13	_	_	_
+15	आ	आ	VERB	VM	Number=Sing|Voice=Act	14	_	_	_
+16	चुका	चुक	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 54
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कमीज	कमीज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	ग्राहक	ग्राहक	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बहुत	बहुत	DET	QF	PronType=Ind	6	_	_	_
+8	जल्दीबाजी	जल्दीबाजी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	में	में	ADP	PSP	AdpType=Post	8	_	_	_
+10	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	जापान	जापान	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	बनती	बन	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 55
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कमीज	कमीज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	DET	QF	PronType=Ind	3	_	_	_
+5	जल्दीबाजी	जल्दीबाजी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	में	में	ADP	PSP	AdpType=Post	5	_	_	_
+7	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	ग्राहक	ग्राहक	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	जापान	जापान	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	बनती	बन	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 56
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़का	लडका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	मोटरसाइकिल	मोटरसाइकिल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	_	_	_
+7	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	डाक्टरी	डाक्टरी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	9	_	_	_
+11	पढ़ाई	पढ़ा	VERB	VM	Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	कर	कर	AUX	VAUX	_	11	_	_	_
+13	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 57
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़का	लडका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	_	_	_
+6	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	मोटरसाइकिल	मोटरसाइकिल	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	डाक्टरी	डाक्टरी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	9	_	_	_
+11	पढ़ाई	पढ़ा	VERB	VM	Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Act	10	_	_	_
+12	कर	कर	AUX	VAUX	_	11	_	_	_
+13	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 58
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	मोटरसाइकिल	मोटरसाइकिल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	लड़के	लड़का	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	6	_	_	_
+8	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	7	_	_	_
+9	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बजाज	बजाज	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	11	_	_	_
+13	नई	नया	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	12	_	_	_
+14	पेशकश	पेशकश	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 59
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	मोटरसाइकिल	मोटरसाइकिल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	_	_	_
+6	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	लड़के	लड़का	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	बजाज	बजाज	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	11	_	_	_
+13	नई	नया	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	12	_	_	_
+14	पेशकश	पेशकश	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 60
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्ची	बच्ची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	डिब्बी	डिब्बी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	धीरे	धीरे	ADV	RB	_	4	_	_	_
+6	से	से	PART	RP	_	5	_	_	_
+7	चुपके-चुपके	चुपके-चुपके	ADV	RDP	Echo=Rdp	6	_	_	_
+8	खोली	खोल	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	शरारती	शरारती	ADJ	JJ	_	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 61
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	बच्ची	बच्ची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	धीरे	धीरे	ADV	RB	_	3	_	_	_
+5	से	से	PART	RP	_	4	_	_	_
+6	चुपके-चुपके	चुपके-चुपके	ADV	RDP	Echo=Rdp	5	_	_	_
+7	खोली	खोल	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	डिब्बी	डिब्बी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	बहुत	बहुत	ADV	INTF	AdvType=Deg	9	_	_	_
+11	शरारती	शरारती	ADJ	JJ	_	10	_	_	_
+12	है।	है।	PUNCT	SYM	_	11	_	_	_
+
+# sent_id = 62
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	डिब्बी	डिब्बी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	बच्ची	बच्ची	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	धीरे	धीरे	ADV	RB	_	6	_	_	_
+8	से	से	PART	RP	_	7	_	_	_
+9	चुपके-चुपके	चुपके-चुपके	ADV	RDP	Echo=Rdp	8	_	_	_
+10	खोला	खोल	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	_	_	_
+13	दादी	दादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 63
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	डिब्बी	डिब्बी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	धीरे	धीरे	ADV	RB	_	3	_	_	_
+5	से	से	PART	RP	_	4	_	_	_
+6	चुपके-चुपके	चुपके-चुपके	ADV	RDP	Echo=Rdp	5	_	_	_
+7	खोला	खोल	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	बच्ची	बच्ची	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	मेरी	मैं	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	_	_	_
+13	दादी	दादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 64
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	टाई	टाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	_	_	_
+5	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	4	_	_	_
+6	स्टाईल	स्टाईल	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	_	_	_
+8	पहनी	पहन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	हुई	हो	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	_	_	_
+10	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	हमारे	हम	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	_
+12	कालेज	कालेज	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	करता	कर	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 65
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	आदमी	आदमी	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	स्टाईल	स्टाईल	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पहनी	पहन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	हुई	हो	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	टाई	टाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	हमारे	हम	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	_
+12	कालेज	कालेज	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	करता	कर	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 66
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	टाई	टाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	6	_	_	_
+8	स्टाईल	स्टाईल	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	_	_	_
+10	पहना	पहन	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	हुआ	हो	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	10	_	_	_
+12	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	_
+13	आज	आज	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	फैशन	फैशन	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	में	में	ADP	PSP	AdpType=Post	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 67
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	टाई	टाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	स्टाईल	स्टाईल	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पहना	पहन	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	हुआ	हो	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	आदमी	आदमी	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	आज	आज	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	_	_	_
+15	फैशन	फैशन	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	में	में	ADP	PSP	AdpType=Post	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 68
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	औरत	औरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	लाल	लाल	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	गाड़ी	गाड़ी	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	5	_	_	_
+7	महीने	महीना	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	बेटे	बेटा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	11	_	_	_
+13	टीचर	टीचर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 69
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	औरत	औरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	महीने	महीना	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	खरीदी	खरीद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	लाल	लाल	ADJ	JJ	Case=Nom	7	_	_	_
+9	गाड़ी	गाड़ी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	_	_	_
+11	बेटे	बेटा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	11	_	_	_
+13	टीचर	टीचर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	है।	है।	PUNCT	SYM	_	13	_	_	_
+
+# sent_id = 70
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	लाल	लाल	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	गाड़ी	गाड़ी	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	_	_	_
+4	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	3	_	_	_
+5	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	_	_	_
+6	औरत	औरत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	ने	ने	ADP	PSP	AdpType=Post	6	_	_	_
+8	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	7	_	_	_
+9	महीने	महीना	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	काफी	काफी	DET	QF	PronType=Ind	13	_	_	_
+15	लोकप्रिय	लोकप्रिय	ADJ	JJ	_	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 71
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लाल	लाल	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	गाड़ी	गाड़ी	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	_	_	_
+4	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	3	_	_	_
+5	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	महीने	महीना	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	खरीदा	खरीद	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	औरत	औरत	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	लोगो	लोग	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	काफी	काफी	DET	QF	PronType=Ind	13	_	_	_
+15	लोकप्रिय	लोकप्रिय	ADJ	JJ	_	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 72
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	डाक्टर	डाक्टर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	दवाईयां	दवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	3	_	_	_
+5	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	शाम	शाम	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	फेकीं	फेक	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	6	_	_	_
+8	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	_	_	_
+9	बहुत	बहुत	ADV	INTF	AdvType=Deg	8	_	_	_
+10	होशियार	होशियार	ADJ	JJ	_	9	_	_	_
+11	है।	है।	PUNCT	SYM	_	10	_	_	_
+
+# sent_id = 73
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	डाक्टर	डाक्टर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	शाम	शाम	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	फेकीं	फेक	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	5	_	_	_
+7	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	_
+8	दवाईयां	दवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	_	_	_
+9	बहुत	बहुत	DET	QF	PronType=Ind	8	_	_	_
+10	होशियार	होशियार	ADJ	JJ	_	9	_	_	_
+11	है।	है।	PUNCT	SYM	_	10	_	_	_
+
+# sent_id = 74
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	दवाईयां	दवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	डाक्टर	डाक्टर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	शाम	शाम	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	फेका	फेक	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	खराब	खराब	ADJ	JJ	_	10	_	_	_
+12	हो	हो	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	11	_	_	_
+13	गईं	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	12	_	_	_
+14	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	_	_	_
+
+# sent_id = 75
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	दवाईयां	दवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	कल	कल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	_	_	_
+5	शाम	शाम	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	फेका	फेक	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	डाक्टर	डाक्टर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	खराब	खराब	ADJ	JJ	_	10	_	_	_
+12	हो	हो	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	11	_	_	_
+13	गईं	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	12	_	_	_
+14	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	_	_	_
+
+# sent_id = 76
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	इंजीनियर	इंजीनियर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	बिल्डिंग	बिल्डिंग	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	बहुत	बहुत	ADV	INTF	AdvType=Deg	5	_	_	_
+7	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	6	_	_	_
+8	बनायी	बना	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	मरे	मर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	_	_	_
+11	दोस्त	दोस्त	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Fem|Number=Sing	11	_	_	_
+13	कंपनी	कंपनी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	में	में	ADP	PSP	AdpType=Post	13	_	_	_
+15	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	करता	कर	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 77
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	इंजीनियर	इंजीनियर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	ADV	INTF	AdvType=Deg	3	_	_	_
+5	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	4	_	_	_
+6	बनायी	बना	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	बिल्डिंग	बिल्डिंग	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	मरे	मर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	_	_	_
+11	दोस्त	दोस्त	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	की	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Fem|Number=Sing	11	_	_	_
+13	कंपनी	कंपनी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	में	में	ADP	PSP	AdpType=Post	13	_	_	_
+15	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	करता	कर	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 78
+1	हमारी	हम	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	_
+2	बिल्डिंग	बिल्डिंग	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	इंजीनियर	इंजीनियर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बहुत	बहुत	ADV	INTF	AdvType=Deg	6	_	_	_
+8	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	7	_	_	_
+9	बनाया	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	सुनसान	सुनसान	ADJ	JJ	Case=Acc	11	_	_	_
+13	इलाके	इलाका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	में	में	ADP	PSP	AdpType=Post	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 79
+1	हमारी	हम	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	_
+2	बिल्डिंग	बिल्डिंग	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बहुत	बहुत	ADV	INTF	AdvType=Deg	3	_	_	_
+5	धीरे-धीरे	धीरे-धीरे	ADV	RB	_	4	_	_	_
+6	बनाया	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	_	_	_
+7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	_
+8	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	_	_	_
+9	इंजीनियर	इंजीनियर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	ने	ने	ADP	PSP	AdpType=Post	9	_	_	_
+11	बहुत	बहुत	ADV	INTF	AdvType=Deg	10	_	_	_
+12	सुनसान	सुनसान	ADJ	JJ	Case=Acc	11	_	_	_
+13	इलाके	इलाका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	में	में	ADP	PSP	AdpType=Post	13	_	_	_
+15	है।	है।	PUNCT	SYM	_	14	_	_	_
+
+# sent_id = 80
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़की	लड़की	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	सारी	सारा	DET	QF	Case=Nom|Gender=Fem|Number=Plur	3	_	_	_
+5	फाइलें	फाइल	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	4	_	_	_
+6	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	5	_	_	_
+7	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	6	_	_	_
+8	शाम	शाम	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	8	_	_	_
+10	समय	समय	ADP	PSP	Case=Acc|Gender=Masc	9	_	_	_
+11	उठायीं	उठा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	10	_	_	_
+12	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	11	_	_	_
+13	बहुत	बहुत	ADV	INTF	AdvType=Deg	12	_	_	_
+14	अच्छा	अच्छा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	13	_	_	_
+15	गाना	गाना	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	गाती	गा	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 81
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	लड़की	लड़की	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	_	_	_
+6	शाम	शाम	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	6	_	_	_
+8	समय	समय	ADP	PSP	Case=Acc|Gender=Masc	7	_	_	_
+9	उठायीं	उठा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	8	_	_	_
+10	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	9	_	_	_
+11	सारी	सारा	DET	QF	Case=Nom|Gender=Fem|Number=Plur	10	_	_	_
+12	फाइलें	फाइल	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	_	_	_
+13	बहुत	बहुत	ADV	INTF	AdvType=Deg	12	_	_	_
+14	अच्छा	अच्छा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	13	_	_	_
+15	गाना	गाना	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	गाती	गा	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	15	_	_	_
+17	है।	है।	PUNCT	SYM	_	16	_	_	_
+
+# sent_id = 82
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	फाइलें	फाइल	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	लड़की	लड़की	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	6	_	_	_
+8	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	7	_	_	_
+9	शाम	शाम	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	_	_	_
+10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	9	_	_	_
+11	समय	समय	ADP	PSP	Case=Acc|Gender=Masc	10	_	_	_
+12	उठाया	उठा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	11	_	_	_
+13	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	_	_	_
+14	दो	दो	NUM	QC	NumType=Card	13	_	_	_
+15	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	से	से	ADP	PSP	AdpType=Post	15	_	_	_
+17	एक	एक	NUM	QC	NumType=Card	16	_	_	_
+18	जगह	जगह	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	_	_	_
+19	पर	पर	ADP	PSP	AdpType=Post	18	_	_	_
+20	सड़	सड़	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	19	_	_	_
+21	रहीं	रह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	20	_	_	_
+22	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	21	_	_	_
+
+# sent_id = 83
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	फाइलें	फाइल	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	हफते	हफ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	_	_	_
+6	शाम	शाम	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	6	_	_	_
+8	समय	समय	ADP	PSP	Case=Acc|Gender=Masc	7	_	_	_
+9	उठाया	उठा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	10	_	_	_
+12	लड़की	लड़की	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	ने	ने	ADP	PSP	AdpType=Post	12	_	_	_
+14	दो	दो	NUM	QC	NumType=Card	13	_	_	_
+15	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	से	से	ADP	PSP	AdpType=Post	15	_	_	_
+17	एक	एक	NUM	QC	NumType=Card	16	_	_	_
+18	जगह	जगह	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	_	_	_
+19	पर	पर	ADP	PSP	AdpType=Post	18	_	_	_
+20	सड़	सड़	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	19	_	_	_
+21	रहीं	रह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	20	_	_	_
+22	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	21	_	_	_
+
+# sent_id = 84
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	हलवाई	हलवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	कढाई	कढाई	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	4	_	_	_
+6	सावधानी	सावधानी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	_	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	_	_	_
+8	पकड़ी	पकड	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	मोहल्ले	मोहल्ला	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	में	में	ADP	PSP	AdpType=Post	11	_	_	_
+13	एक	एक	NUM	QC	NumType=Card	12	_	_	_
+14	नई	नया	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	13	_	_	_
+15	दुकान	दुकान	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	_	_	_
+16	खोल	खोल	VERB	VM	Number=Sing|Voice=Act	15	_	_	_
+17	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	16	_	_	_
+18	है।	है।	PUNCT	SYM	_	17	_	_	_
+
+# sent_id = 85
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	हलवाई	हलवाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	सावधानी	सावधानी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पकड़ी	पकड	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	कढाई	कढा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	_	_	_
+10	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	मोहल्ले	मोहल्ला	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	में	में	ADP	PSP	AdpType=Post	11	_	_	_
+13	एक	एक	NUM	QC	NumType=Card	12	_	_	_
+14	नई	नया	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	13	_	_	_
+15	दुकान	दुकान	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	_	_	_
+16	खोल	खोल	VERB	VM	Number=Sing|Voice=Act	15	_	_	_
+17	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	16	_	_	_
+18	है।	है।	PUNCT	SYM	_	17	_	_	_
+
+# sent_id = 86
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	कढाई	कढा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	_	_	_
+5	हलवाई	हलवाई	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	ने	ने	ADP	PSP	AdpType=Post	5	_	_	_
+7	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	6	_	_	_
+8	सावधानी	सावधानी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	_	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	_	_	_
+10	पकड़ा	पकड	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	_	_	_
+11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	असली	असली	ADJ	JJ	Case=Acc	11	_	_	_
+13	पीतल	पीतल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	बनी	बन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 87
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	कढाई	कढा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	1	_	_	_
+3	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	3	_	_	_
+5	सावधानी	सावधानी	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	से	से	ADP	PSP	AdpType=Post	5	_	_	_
+7	पकड़ा	पकड	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	_	_	_
+8	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	_
+9	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	_	_	_
+10	हलवाई	हलवाई	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	_	_	_
+11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
+12	असली	असली	ADJ	JJ	Case=Acc	11	_	_	_
+13	पीतल	पीतल	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	_	_	_
+14	से	से	ADP	PSP	AdpType=Post	13	_	_	_
+15	बनी	बन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 88
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कुली	कुली	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	बड़ी	बड़ा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	3	_	_	_
+5	अटैची	अटैची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	_	_	_
+6	एक	एक	NUM	QC	NumType=Card	5	_	_	_
+7	झटके	झटका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
+8	में	में	ADP	PSP	AdpType=Post	7	_	_	_
+9	उठा	उठा	VERB	VM	Gender=Fem|Number=Sing|Voice=Act	8	_	_	_
+10	ली	ले	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	9	_	_	_
+11	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	_
+12	रात	रात	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	टैक्सी	टैक्सी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	चलाता	चला	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 89
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	कुली	कुली	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	एक	एक	NUM	QC	NumType=Card	3	_	_	_
+5	झटके	झटका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	में	में	ADP	PSP	AdpType=Post	5	_	_	_
+7	उठा	उठा	VERB	VM	Gender=Fem|Number=Sing|Voice=Act	6	_	_	_
+8	ली	ले	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	7	_	_	_
+9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	बड़ी	बड़ा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	9	_	_	_
+11	अटैची	अटैची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	_	_	_
+12	रात	रात	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	में	में	ADP	PSP	AdpType=Post	12	_	_	_
+14	टैक्सी	टैक्सी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	चलाता	चला	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	_	_	_
+16	है।	है।	PUNCT	SYM	_	15	_	_	_
+
+# sent_id = 90
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	बड़ी	बड़ा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	1	_	_	_
+3	अटैची	अटैची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	_	_	_
+4	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	3	_	_	_
+5	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	_	_	_
+6	कुली	कुली	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	ने	ने	ADP	PSP	AdpType=Post	6	_	_	_
+8	एक	एक	NUM	QC	NumType=Card	7	_	_	_
+9	झटके	झटका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	_	_	_
+10	में	में	ADP	PSP	AdpType=Post	9	_	_	_
+11	उठा	उठा	VERB	VM	Gender=Masc|Number=Sing|Voice=Act	10	_	_	_
+12	लिया	ले	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	11	_	_	_
+13	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	12	_	_	_
+14	ट्रेन	ट्रेन	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	में	में	ADP	PSP	AdpType=Post	14	_	_	_
+16	गुम	गुम	ADJ	JJ	_	15	_	_	_
+17	हो	हो	VERB	VM	Number=Sing|Voice=Act	16	_	_	_
+18	गयी।	गयी।	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	17	_	_	_
+
+# sent_id = 91
+1	वह	वह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	बड़ी	बड़ा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	1	_	_	_
+3	अटैची	अटैची	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	_	_	_
+4	जिसको	जो	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	3	_	_	_
+5	एक	एक	NUM	QC	NumType=Card	4	_	_	_
+6	झटके	झटका	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	_	_	_
+8	उठा	उठा	VERB	VM	Gender=Masc|Number=Sing|Voice=Act	7	_	_	_
+9	लिया	ले	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	_	_	_
+10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	_
+11	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	10	_	_	_
+12	कुली	कुली	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	_	_	_
+13	ने	ने	ADP	PSP	AdpType=Post	12	_	_	_
+14	ट्रेन	ट्रेन	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	_	_	_
+15	में	में	ADP	PSP	AdpType=Post	14	_	_	_
+16	गुम	गुम	ADJ	JJ	_	15	_	_	_
+17	हो	हो	VERB	VM	Number=Sing|Voice=Act	16	_	_	_
+18	गयी।	गयी।	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	17	_	_	_
+
+# sent_id = 92
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	अध्यापक	अध्यापक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
+3	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	2	_	_	_
+4	किताबें	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	3	_	_	_
+5	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	4	_	_	_
+6	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	_	_	_
+7	गर्मियों	गर्मी	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	6	_	_	_
+8	में	में	ADP	PSP	AdpType=Post	7	_	_	_
+9	बेचीं	बेच	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	8	_	_	_
+10	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	9	_	_	_
+11	बरेली	बरेली	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	11	_	_	_
+13	रहनेवाला	रहन	VERB	VM	Case=Nom|VerbForm=Inf	12	_	_	_
+14	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	13	_	_	_
+15	अध्यापक	अध्यापक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	_	_	_
+16	जिसने	जो	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|PronType=Prs	15	_	_	_
+17	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	16	_	_	_
+18	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	_	_	_
+19	गर्मियों	गर्मी	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	18	_	_	_
+20	में	में	ADP	PSP	AdpType=Post	19	_	_	_
+21	बेचीं	बेच	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	20	_	_	_
+22	थीं	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	21	_	_	_
+23	किताबें	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	22	_	_	_
+24	बरेली	बरेली	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	23	_	_	_
+25	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	24	_	_	_
+26	रहनेवाला	रहन	VERB	VM	Case=Nom|VerbForm=Inf	25	_	_	_
+27	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	26	_	_	_
+28	किताबें	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	27	_	_	_
+29	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	28	_	_	_
+30	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	29	_	_	_
+31	अध्यापक	अध्यापक	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	_	_	_
+32	ने	ने	ADP	PSP	AdpType=Post	31	_	_	_
+33	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	32	_	_	_
+34	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	33	_	_	_
+35	गर्मियों	गर्मी	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	34	_	_	_
+36	में	में	ADP	PSP	AdpType=Post	35	_	_	_
+37	बेचा	बेच	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	36	_	_	_
+38	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	37	_	_	_
+39	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Plur	38	_	_	_
+40	हो	हो	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	39	_	_	_
+41	रहीं	रह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	40	_	_	_
+42	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	41	_	_	_
+
+# sent_id = 93
+1	वह	वह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	_	_	_
+2	किताबें	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	_	_	_
+3	जिनको	जो	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	_	_	_
+4	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	3	_	_	_
+5	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	_	_	_
+6	गर्मियों	गर्मी	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	5	_	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	_	_	_
+8	बेचा	बेच	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	_	_	_
+9	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	_
+10	उस	वह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	_	_	_
+11	अध्यापक	अध्यापक	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	_	_	_
+12	ने	ने	ADP	PSP	AdpType=Post	11	_	_	_
+13	पुरानी	पुराना	ADJ	JJ	Gender=Fem|Number=Plur	12	_	_	_
+14	हो	हो	VERB	VM	Gender=Fem|Number=Plur|Voice=Act	13	_	_	_
+15	रहीं	रह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	14	_	_	_
+16	थीं।	थीं।	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	15	_	_	_
